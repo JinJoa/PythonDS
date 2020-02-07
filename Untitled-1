@@ -1,0 +1,9 @@
+void a(int a, int b) {
+    int sum = a + b;
+    int arr[100];
+    int guard[12000]
+    int e;
+    void *p = malloc(100 * sizeof(double))
+    free(p)
+    return  sum
+}
